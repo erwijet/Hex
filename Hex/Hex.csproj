@@ -95,6 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="59031_5ea_icon.ico" />
+    <Content Include="document_WHi_icon.ico" />
     <None Include="Resources\59031_5ea_icon.ico" />
   </ItemGroup>
   <ItemGroup>
@@ -123,7 +124,7 @@
       <Visible>False</Visible>
       <Description>Binary file</Description>
       <Progid>Binary</Progid>
-      <DefaultIcon>59031_5ea_icon.ico</DefaultIcon>
+      <DefaultIcon>document_WHi_icon.ico</DefaultIcon>
     </FileAssociation>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

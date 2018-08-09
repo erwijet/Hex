@@ -50,7 +50,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xS03QKWR4EZf9K5GUV5ZyBo3ofBx6dAIPp+z9PcI2DM=</dsig:DigestValue>
+        <dsig:DigestValue>382carc8F7cF45K0Tfa3mGxrNzTw5cRxM9oHCajup78=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -63,6 +63,15 @@
       <dsig:DigestValue>L97RaNZkvrO1vJ0DxbXATZXzykS1ck0k4yJ48+dZgeE=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="document_WHi_icon.ico" size="28792">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bgw3lCDTWceZdt2wN2pTXwX2vQ9I9/DSVZ2BECzBncQ=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Hex.exe.config" size="189">
     <hash>
       <dsig:Transforms>
@@ -72,5 +81,5 @@
       <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
     </hash>
   </file>
-  <fileAssociation extension=".bin" description="Binary file" progid="Binary" defaultIcon="59031_5ea_icon.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
+  <fileAssociation extension=".bin" description="Binary file" progid="Binary" defaultIcon="document_WHi_icon.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
 </asmv1:assembly>
