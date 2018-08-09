@@ -1,0 +1,13 @@
+C:\Users\Tyler\Desktop\Hex\Hex\bin\Debug\Hex.exe.config
+C:\Users\Tyler\Desktop\Hex\Hex\bin\Debug\Hex.exe
+C:\Users\Tyler\Desktop\Hex\Hex\bin\Debug\Hex.pdb
+C:\Users\Tyler\Desktop\Hex\Hex\obj\Debug\Hex.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\Hex\Hex\obj\Debug\Hex.exe
+C:\Users\Tyler\Desktop\Hex\Hex\obj\Debug\Hex.pdb
+C:\Users\Tyler\Desktop\Hex\Hex\obj\Debug\ByteViewerForm.ByteViewerForm.resources
+C:\Users\Tyler\Desktop\Hex\Hex\obj\Debug\Hex.csproj.GenerateResource.Cache
+C:\Users\Tyler\Desktop\Hex\Hex\obj\Debug\Hex.Properties.Resources.resources
+C:\Users\Tyler\Desktop\Hex\Hex\bin\Debug\Hex.exe.manifest
+C:\Users\Tyler\Desktop\Hex\Hex\bin\Debug\Hex.application
+C:\Users\Tyler\Desktop\Hex\Hex\obj\Debug\Hex.exe.manifest
+C:\Users\Tyler\Desktop\Hex\Hex\obj\Debug\Hex.application
